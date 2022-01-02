@@ -30,3 +30,5 @@ Librerias necesarias para ejecutar el programa
     - datetime
     - PyAudio
     - pygame
+
+© No reservados
