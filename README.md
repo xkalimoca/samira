@@ -17,7 +17,7 @@ Para que el asistente pueda ejecutar las acciones debe de decir el nombre del as
 | escribe   |Escribe un blo de notas|
 | stop      |Deja de escucharte     |
 
-## Requisistos:
+## Requisitos:
 
 Librerias necesarias para ejecutar el programa
 
